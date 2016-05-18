@@ -9,3 +9,5 @@ url = [proxy getProxyUrl:url];
 配置文件：
 
 HttpProxyCacheServerConfig.h
+
+项目基于这个家伙  https://github.com/robbiehanson/CocoaHTTPServer
